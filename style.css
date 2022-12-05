@@ -77,16 +77,18 @@ a {
     font-size: 10px;
     font-weight: 500;
 }
+
 .skills {
     list-style-type: none;
     display: inline-block;
 }
 .skills li {
     border: 1px solid rgb(177, 174, 174);
-    border-radius: 3px;
-    height: auto;
-    width: auto;
+    padding: 1px;
+    border-radius: 5px;
     font-size: 9px;
     font-weight: 700;
     float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
 }
